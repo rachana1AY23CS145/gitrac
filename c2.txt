@@ -3,5 +3,8 @@ cse
 acharya
 banglore
 first commit
+<<<<<<< HEAD
 second commit
 third commit
+=======
+>>>>>>> parent of 9b4a31f (commit message)
