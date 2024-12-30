@@ -2,6 +2,7 @@ rachana
 cse
 acharya
 banglore
+<<<<<<< HEAD
 first commit
 <<<<<<< HEAD
 second commit
@@ -9,3 +10,6 @@ third commit
 =======
 >>>>>>> parent of 9b4a31f (commit message
 asjbsnsdhj)
+=======
+>>>>>>> d4323c2 (commit message)
+first commit
